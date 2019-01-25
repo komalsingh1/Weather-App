@@ -1,2 +1,2 @@
 # Weather-App
-A progressive Weather App
+A progressive Web App . A Weather App
